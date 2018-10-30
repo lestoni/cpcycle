@@ -13,8 +13,6 @@
     "child_process",
     "spawn",
     "fork",
-    "console",
-    "graph",
     "lifecycle"
   ],
   "author": "Tony Mutai <tonnimutai@gmail.com>",
