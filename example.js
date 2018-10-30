@@ -2,7 +2,7 @@ const childProcess = require("child_process");
 
 const cpcycle = require("./")({
   trace: true,
-  events: ["Close", "Stderr"]
+  events: ["Close", "Stdout"]
 })
 
 // New instances of child processes to track
