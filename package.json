@@ -1,5 +1,5 @@
 {
-  "name": "cpcyle",
+  "name": "cpcycle",
   "version": "1.0.0",
   "description": "View Lifecycle events of child processes",
   "main": "index.js",
