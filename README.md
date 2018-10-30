@@ -2,7 +2,7 @@
 
 Small Utility To Observe NodeJS Child Processes life cycle events using notifications.
 
-![Notification Screenshot](https://raw.githubusercontent.com/lestoni/cpcyle/master/assets/notification.png)
+![Notification Screenshot](https://raw.githubusercontent.com/lestoni/cpcycle/master/assets/notification.png)
 
 ## Usage
 
