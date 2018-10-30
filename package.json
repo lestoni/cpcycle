@@ -3,12 +3,7 @@
   "version": "1.0.0",
   "description": "View Lifecycle events of child processes",
   "main": "index.js",
-  "bin": {
-    "cpcyle": "cli.js"
-  },
-  "scripts": {
-    "test": "jest"
-  },
+  "scripts": {},
   "keywords": [
     "child_process",
     "spawn",
