@@ -13,7 +13,6 @@ class CPCYCLE {
   // Set Random Name if not supplied
   constructor(name = `#CP${crypto.randomBytes(3).toString("hex")}`) {
     this.name = name;
-    this.payload = [];
     this.begin = null;
   }
 
