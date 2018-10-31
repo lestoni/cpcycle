@@ -1,6 +1,6 @@
 {
   "name": "cpcycle",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "View Lifecycle events of child processes",
   "main": "index.js",
   "scripts": {},
@@ -23,5 +23,5 @@
     "type": "git",
     "url": "git@github.com:lestoni/cpcycle.git"
   },
-   "homepage": "https://github.com/lestoni/cpcycle#readme"
+  "homepage": "https://github.com/lestoni/cpcycle#readme"
 }
